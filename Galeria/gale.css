@@ -1,0 +1,33 @@
+body{
+    background-image: url(imagens/galaxy.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 150vh;
+    background-position: center;
+    background-size: cover;
+    width: 500px;
+    height: 750px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    font-size: 30px;
+
+}
+
+
+ div{
+    position: relative;
+    background-position: center;
+    top: 3%;
+    left: 108%;
+    right: 108%;
+    width: 40%;
+    height: 70%;
+   
+   
+}
+
+

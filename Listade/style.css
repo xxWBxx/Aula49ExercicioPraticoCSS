@@ -1,0 +1,108 @@
+body{
+    background-image: url(galaxy.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+
+  
+ h1{
+     color: rgb(255, 255, 255);
+     text-align: center;
+     margin-top: 10%;
+     
+ }
+ 
+
+
+
+ section{
+   
+   
+   height: 20vh;
+   text-align: center;
+   padding: 5px 0px 3px ;
+   width: 4.9%;
+   height: 0%;
+   margin-left: 48%;
+   
+
+ }
+
+ section a:hover{
+   color: rgb(255, 255, 255);
+   width: 1%;
+
+  
+ }
+
+
+
+ .link-as-button {
+   appearance: button;
+   background-color: blueviolet;
+   border:none;
+   color: rgb(255, 255, 255);
+   text-decoration: none;
+  
+   
+
+ }
+
+ .button-as-link a{
+
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   font-size: 15px; 
+   
+   text-decoration: none; 
+   
+   
+ 
+
+ }
+ 
+
+
+.button-as-link{
+  appearance: button;
+  background-color: rgb(0, 132, 255);
+  border:none;
+
+ 
+  
+  
+}
+
+
+ div{
+   
+  
+   width: 500px;
+   height: 450px;
+   background: transparent;
+   border: 2px solid rgba(255,255,255,0.5);
+   border-radius: 20px;
+   backdrop-filter: blur(15px);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   margin-left: 34%;
+   margin-top: 10%;
+   flex-direction: column;
+   padding-top: 3px;
+   
+
+}
+
+ ol{
+    list-style-type:lower-roman;
+    padding-top: 45px;
+    padding-bottom: 6%;
+    
+ }
+
